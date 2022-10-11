@@ -1,0 +1,171 @@
+8-Ball Emulator x.3
+Copyright ©1993-2002  by Scott Knudsen.   
+All rights reserved.
+
+E-mail: ScottKnudsen@Kagi.com
+Feel free to distribute copies of 8-Ball Emulator x.3 along with the 8-Ball Registration application and the Read Me file.
+
+You can register 8-Ball on the web at  
+https://order.kagi.com/cgi-bin/r1.cgi?QQT&
+
+To shoot:
+   Click outside of the cue ball and hold the mouse button down.  The cue stick will appear between the mouse pointer and the cue ball.  
+	  Drag the handle of the cue stick until it is pointing in the direction you want to shoot.  When you release the mouse button, the stick will hit the cue ball.  
+   The longer the stick when you shoot, the harder it will hit.  
+
+The Aim Assist line makes aiming easier and more precise.  When you are aiming the cue stick, an extra line shows where the cue ball will go if it doesn't run into anything.
+ 
+To start a new game, select the File menu New Game item.  To remove all balls except the cue ball and the 8 ball, select 'New Game' from the File menu, and then 'Undo Shot' from the Edit menu.  In 9-Ball, this ends the game, but you can still shoot.
+
+
+Use the Options menu to switch between the 8-Ball and 9-Ball games.
+
+You can drag the cue ball to any position you desire using the mouse.  If the cue ball falls in a pocket, you can put it back on the table by clicking the mouse on the position you desire .  In 9-Ball, you can only spot the cue ball in the "kitchen", unless you hold down the option key before grabbing.
+
+You can change the size of the table with the window zoom box or grow box at the bottom right, or with the Options menu Zoom item.
+
+You can cancel a shot while the balls are moving by holding down the Command key (also called the Apple or clover key) and typing a period (.).  While you are aiming, you can cancel by releasing the mouse over the cue ball.
+
+
+On the break, if the cue ball is in the kitchen and the cue stick handle is to the right of the kitchen line, the stick will strike twice as hard as it would normally.  A little random momentum is applied to the cue ball, so that you won't get the exact same results for two identical break shots.
+
+The Shot Status line at the bottom of the window tells you whether a shot was successful, why, and who shoots next.  
+
+‘Table Settings…’:
+The ‘Table Settings…’ item in the Options menu lets you adjust characteristics of the balls, stick, and table action .  There are keyboard equivalents for the controls; try the arrow keys, brackets, and the buttons' initials.
+
+
+Changing your system's monitor settings can also affect table action.
+
+When you adjust the Table Settings window Speed control, you change the strength of the cue stick, and therefore the speed of the cue ball.
+
+When you adjust the Friction control, you change the rate that the moving balls slow down.  The more friction there is, the sooner the balls will slow down and stop moving.  A ball will go farther with more speed, but not with more friction.
+
+For best action on a PowerBook, the 'Reduce processor speed' item must be turned off in Advanced Settings in the Energy Saver control panel.  Otherwise, you may need to increase the speed and friction settings.
+
+
+When you change the ball size with Table Settings, the size of the pockets changes accordingly.  You can drag the edge of the size ball, or use the scroll bar, or the up and down arrow keys, to do this.
+
+If you make the ball size larger, it may cause some balls to overlap each other.  Select 'New Game' to correct this.
+
+The Table Settings 'Normal' button computes table settings to what would be considered normal for your machine configuration and window size.
+
+The 'Tilted Table' checkbox in the ‘Table Settings…’ dialog makes the balls roll toward the lower right-hand corner.  Credit for this item goes to the author's sweetie, who has a creative understanding of the difference between a bug and a feature.
+
+
+More 'Options' menu:
+
+The 'Shot Scrolling' option lets you shoot harder when the mouse pointer gets to the edge of the window.  The table moves away, making the cue stick longer.
+
+The 'Enable Sound' option lets you turn 8-Ball sounds on and off.
+
+The ‘Switch Players’ option is used when you're playing ‘call shot’ and a player makes a shot he didn’t call.
+
+The ‘Show Ball Numbers’ item lets you choose between balls showing ball numbers, and balls with center dots to help in aiming.  Ball numbers cannot be shown for small ball sizes.  In the 9-Ball game, numbers for large size balls are shown even if 'Hide Ball Numbers' is selected.
+
+
+The Aim Assist option lets you turn that on and off.
+
+'Shot Count', in the Apple menu's 'About…' box, tells how many shots have been made since 8-Ball was put on your system.
+
+8-Ball Emulator supports Macintosh with 68020 or better processor, with any monitor configuration, and System 8 or later.
+
+More information is available thru the 'Save Help File' button in the Help window, or in the Options menu.  'Save Help File' makes a Simple Text document that contains Help text, quick rules, and notes.  You can open this file with any word processor, unlike a lot of Read Me files these days.
+
+
+This application will only allow 5 shots per day until it is unlocked for the machine and system folder used.  Instructions for unlocking are displayed in the Unlocking dialog, accessed through an item in the Options menu, and in the Read Me document that comes with the application.
+
+We welcome your comments -- please send them to the e-mail address found in the About box.
+
+
+Some terminology:
+We use the term 'rail' in this document.  It's the same as 'bumper' or 'cushion'.
+
+The rules described below are not necessarily official.
+
+Quick Rules for 8 Ball Pool
+------------------------
+
+The object of the game of 8 Ball pool is to be the first one to legally pocket the 8 ball.  
+
+The (white) cue ball is shot from the ‘kitchen’ area on the first shot, called the break.  The kitchen is the right hand quarter of the table.  When you grab the cue ball, the edge of the kitchen is drawn.
+
+If a player pockets the 8 ball on the break, but not the cue ball, he wins.  If he pockets a solid or stripe ball on the break, he gets another shot. 
+
+Players may shoot for either solid or stripe until a shot results in balls of only one type being pocketed.  This determines who gets which type.  If a shot does not pocket a ball, it's the next player’s turn.  Once the players’ ball types are determined, the shooter has to hit one of his balls first with the cue ball, and pocket one of his balls, or it's the next player’s shot.
+
+If the cue ball is pocketed, it's the opponent’s turn.  In this case the cue ball must be ‘spotted’ in the ‘kitchen’ area.
+
+After the break, if a player pockets the 8 ball while he still has other balls on the table, he loses.  Once his balls have all been pocketed, he can shoot the 8 ball.  If he makes it, he wins.  If the cue ball drops, it's a scratch and he loses.  Otherwise it's the next player’s turn.  
+
+Switch Player option
+
+In an 8-Ball pool game, it’s often required that a shooter state which ball he intends to pocket, and which pocket, and which rails and other balls will be involved along the way.  This is called "calling the shot".  It is particularly necessary when shooting the 8 ball.
+
+If the shooter doesn’t make the shot he called, but still pockets a ball of his type (stripes or solids), it’s a "slop shot", and his opponent gets to shoot next.  
+ 
+In "gentleman’s pool", the shooter is only expected to call his shot if it’s not obvious what he’s trying to do.   This can lead to disagreements, especially when there is money involved.
+
+For instance, a player might say “rail first, green stripe in the lower left off the blue ball”.  That means he intends to shoot the cue ball off the bumper, then into the green striped ball, which will glance off the blue solid and drop in the lower left pocket.  If his shot doesn’t happen just that way, such as if the cue ball hits the orange stripe before the bumper, the opponent shoots next, even though the green stripe went down the called pocket.  
+
+If the players agree to play “call pocket”, only the intended ball and pocket need to be called.
+
+[ Note:  The author is not familiar with customs outside of the central and western US.  ]
+
+The Shot Status feature of 8-Ball Emulator can determine which shooter gets which ball type, and if the shot was legal, and other rules issues.   However, it can not tell what the shooter says his shot will be.  
+
+The players must determine if a shot was called.  If it wasn’t, the players can use the ‘Switch Player’ menu option.  
+
+For a “serious” game, then, a slop shot must be handled through the "Switch players" item in the Options menu.  The Shot Status line will then report the correct state of the game.
+
+
+Quick Rules for 9 Ball Pool
+------------------------
+
+The winner must pocket the 9 ball legally, but it’s complicated.  You can also win if your opponent gets 3 fouls in a row.
+
+You must hit the low numbered ball on the table first, or it’s a foul and the opponent gets to spot the cue ball.
+
+You can also foul by scratching, by failing to bring a ball to a rail on a shot, or by failing to either pocket a ball or bring at least 1 object ball to the rail on the break.
+
+If you hit the lowest object ball first, and pocket an object ball, and don't scratch, you get another shot.
+
+
+From the Developer:
+-----------------
+
+8-Ball Emulator was designed to emulate a pool table simply yet elegantly.  It puts the table on the screen, racks the balls, and lets the user shoot the balls down the pockets, using the mouse to control the cue stick.  
+
+The balls move according to the physics principles that control the motion on real pool tables.  You can use 8-Ball Emulator to develop your pool shooting skills, as well as to test the difference between the skills of 2 players.
+
+Graphics
+
+To keep the size of the application file low, and to cut down on costly downloading time, the graphics were kept simple.  Instead of including table, cue stick, and ball pictures in the application file, they are generated on the fly.  The number of table sizes and ball sizes to choose from is only limited by the size of the monitor.  Cue stick English, which involves rotational momentum, and 3D and hop shots, don't lend themselves to flat computer displays, so we don't support them.
+
+Showing objects moving on the screen is called animation.  8-Ball does this by repeatedly erasing balls and redrawing them in new positions.  If you set the friction low and the shot speed high, and give it a good whack, there may be many thousands of drawing cycles. 
+
+8-Ball erases and draws the balls in a picture of the pool table in RAM (offscreen), and then copies the picture to the screen for each cycle.  This technique provides for smoother animation.
+
+You may notice that the balls seem translucent at times.  This is because of a special image transfer mode, which allows for better action.  Maybe someone should make real translucent pool balls.
+
+Action
+
+Ball position, direction, and momentum are maintained by the software code to the thousandth of a pixel.  Machine performance is measured, and friction and cue stick strength are adjusted accordingly.  This provides for realistic action, whether you are running on a Mac II or a G4.  
+
+Math
+
+The most difficult part of 8-Ball Emulator to develop was the collision routine.  This routine requires highly precise trigonometric and algebraic functions.  When balls collide, their momentum must be distributed in a way that doesn’t lend itself well to digital logic.  Precision and performance issues, particularly on the break (the first shot after racking), required a very disciplined procedure.
+
+When the cue ball hits the newly racked balls, there are at least 31 points where balls touch each other, and usually all of those points will have to have collision calculations performed for them.  Then there will be a few more to get things in order before the calculation cycle is done, for a typical total of 60 collisions for the main break.  That doesn’t include collisions for the rest of the shot.  You will find 8-Ball Emulator to perform the most precise collisions of any pool table software on the market.
+
+Memory Handling; Application size
+
+8-Ball can run in 300K, but much more memory is needed for larger window size and monitor settings.  More memory is also required when you use the Table Settings ‘Set Ball Size…’ option to make larger balls.
+
+The window will take 4 times as much memory when the monitor is set to millions of colors as it will for 256 colors.  If there is not enough memory available, you will get a message explaining things, and an unnatural looking table.  
+
+For a ‘zoomed’ window on a 21” monitor in 'Millions of Colors' mode, for example, you’ll need to set 8-Ball’s Preferred Memory, in the Get Info box, to at least 4,000k.  If you set Preferred Memory to 300k, 8-Ball may have to use black & white table and balls.
+
+∞	May, 2002   sk	
+∞
+life and life only
